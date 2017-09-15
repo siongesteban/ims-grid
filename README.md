@@ -1,4 +1,4 @@
-#IMS Grid
+# IMS Grid
 
 A photo gallery website where the members of Interactive Media Society, a photography club, will publish their entries. The website also serves as the portfolio website of the club.
 
