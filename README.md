@@ -6,4 +6,4 @@ Unfortunately, the use of the website was not continued because of the inactivit
 But you can still view it here:
 [ims-grid.000webhostapp.com!](http://ims-grid.000webhostapp.com)
 
-![Image of IMS Grid](https://image.ibb.co/g18kR5/ims_grid_screenshot.png)
+![alt text](https://image.ibb.co/g18kR5/ims_grid_screenshot.png "IMS Grid on different devices")
